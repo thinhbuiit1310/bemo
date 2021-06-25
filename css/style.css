@@ -89,7 +89,7 @@ body {
 }
 
 .intro__avatar {
-    background: urL("../img/5.jpg");
+    background: urL("../img/thu.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: calc(var(--unit)*-4) calc(var(--unit)*-3);
